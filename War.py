@@ -1,3 +1,7 @@
+#  File: War.py
+#  Description: Program that simulates two people playing the War cardgame
+#  Date Created: 9/24/17
+#  Date Last Modified: 10/6/17
 import random, math
 
 class Card:
